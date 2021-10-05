@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-09-29T21:21:17.773-04:00
-  initializedAtString: 2021-09-29T21:21:17.757-04:00
+  lastUpdatedAtString: 2021-10-05T13:16:47.288-04:00
+  initializedAtString: 2021-10-05T11:58:59.520-04:00
   localBranches:
+  - name: Intro_levek
+    tracking: 
   - name: main
     tracking: origin/main
   remoteBranches:
@@ -44,8 +46,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Intro_levek
     - main
     values:
+    - name: Intro_levek
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: main
       remote:
         name: origin

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-09-29T21:21:15.631-04:00
-  initializedAtString: 2021-09-29T21:21:15.631-04:00
+  lastUpdatedAtString: 2021-10-05T13:16:46.847-04:00
+  initializedAtString: 2021-10-05T11:58:59.380-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/theonekami/Soul-Game.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: Intro_levek
+    tracking: 
   currentConfigBranch:
-    name: main
+    name: Intro_levek
     remote:
-      name: origin
-      url: https://github.com/theonekami/Soul-Game.git
-    trackingBranch: main
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/theonekami/Soul-Game.git
