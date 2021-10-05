@@ -1,0 +1,1419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-10-05T13:23:30.083-04:00
+  initializedAtString: 2021-10-05T11:58:59.390-04:00
+  entries:
+  - path: Soul-Game\Assets\cemetery halloween set\Materials.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials.meta
+    projectPath: Assets\cemetery halloween set\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\cemetery halloween set\Materials\floor_12.mat
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials\floor_12.mat
+    projectPath: Assets\cemetery halloween set\Materials\floor_12.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\cemetery halloween set\Materials\floor_12.mat.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials\floor_12.mat.meta
+    projectPath: Assets\cemetery halloween set\Materials\floor_12.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\cemetery halloween set\Materials\floor_13.mat
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials\floor_13.mat
+    projectPath: Assets\cemetery halloween set\Materials\floor_13.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\cemetery halloween set\Materials\floor_13.mat.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials\floor_13.mat.meta
+    projectPath: Assets\cemetery halloween set\Materials\floor_13.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\cemetery halloween set\Materials\floor_14.mat
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials\floor_14.mat
+    projectPath: Assets\cemetery halloween set\Materials\floor_14.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\cemetery halloween set\Materials\floor_14.mat.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\cemetery
+      halloween set\Materials\floor_14.mat.meta
+    projectPath: Assets\cemetery halloween set\Materials\floor_14.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\Fox\Materials\M_Fox 1.mat
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\Fox\Materials\M_Fox
+      1.mat
+    projectPath: Assets\Fox\Materials\M_Fox 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\Fox\Materials\M_Fox 1.mat.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\Fox\Materials\M_Fox
+      1.mat.meta
+    projectPath: Assets\Fox\Materials\M_Fox 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\JAE.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\JAE.meta
+    projectPath: Assets\JAE.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\Scenes\Intro_level.unity
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\Scenes\Intro_level.unity
+    projectPath: Assets\Scenes\Intro_level.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Assets\SugarSkull_AlbedoTransparency.png.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\SugarSkull_AlbedoTransparency.png.meta
+    projectPath: Assets\SugarSkull_AlbedoTransparency.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\SugarSkull_MetallicSmoothness.png.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\SugarSkull_MetallicSmoothness.png.meta
+    projectPath: Assets\SugarSkull_MetallicSmoothness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\SugarSkull_Normal.png.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\SugarSkull_Normal.png.meta
+    projectPath: Assets\SugarSkull_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Assets\SugarSkull_SM.fbx.meta
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Assets\SugarSkull_SM.fbx.meta
+    projectPath: Assets\SugarSkull_SM.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ArtifactDB
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\Artifacts\01\01e25a8fc1acce7aa4fa70c0eca5cfa2
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\01\01e25a8fc1acce7aa4fa70c0eca5cfa2
+    projectPath: Library\Artifacts\01\01e25a8fc1acce7aa4fa70c0eca5cfa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\06\06acb61f7bf09b49847e12c680f85b08
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\06\06acb61f7bf09b49847e12c680f85b08
+    projectPath: Library\Artifacts\06\06acb61f7bf09b49847e12c680f85b08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\07\07f5f90c0fa7d9e3759cb3eddc853d7a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\07\07f5f90c0fa7d9e3759cb3eddc853d7a
+    projectPath: Library\Artifacts\07\07f5f90c0fa7d9e3759cb3eddc853d7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\08\08c0f1abd135eab972bfe7c8e9aad983
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\08\08c0f1abd135eab972bfe7c8e9aad983
+    projectPath: Library\Artifacts\08\08c0f1abd135eab972bfe7c8e9aad983
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\08\08ff6ff69c2fbe9c441662f5eb85ae61
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\08\08ff6ff69c2fbe9c441662f5eb85ae61
+    projectPath: Library\Artifacts\08\08ff6ff69c2fbe9c441662f5eb85ae61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\09\0979054397486ae4c40a3bda3744d5b0
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\09\0979054397486ae4c40a3bda3744d5b0
+    projectPath: Library\Artifacts\09\0979054397486ae4c40a3bda3744d5b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0a\0a9313202780617b128d1b7808174ce0
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0a\0a9313202780617b128d1b7808174ce0
+    projectPath: Library\Artifacts\0a\0a9313202780617b128d1b7808174ce0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0b\0b1e2103817a8f8399c9190cbe0bd605
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0b\0b1e2103817a8f8399c9190cbe0bd605
+    projectPath: Library\Artifacts\0b\0b1e2103817a8f8399c9190cbe0bd605
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0b\0b714d26d1ab1a36303e464aeb022851
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0b\0b714d26d1ab1a36303e464aeb022851
+    projectPath: Library\Artifacts\0b\0b714d26d1ab1a36303e464aeb022851
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0c\0c0e16f7a2fd9c660508091428a9c372
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0c\0c0e16f7a2fd9c660508091428a9c372
+    projectPath: Library\Artifacts\0c\0c0e16f7a2fd9c660508091428a9c372
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0d\0d79c66b839d5863bd85d6f167cc58d5
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0d\0d79c66b839d5863bd85d6f167cc58d5
+    projectPath: Library\Artifacts\0d\0d79c66b839d5863bd85d6f167cc58d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0d\0dc437e8f426a49330a4ee5b2b0831a5
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0d\0dc437e8f426a49330a4ee5b2b0831a5
+    projectPath: Library\Artifacts\0d\0dc437e8f426a49330a4ee5b2b0831a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0e\0e8a817322353864894b5d6b141985f2
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0e\0e8a817322353864894b5d6b141985f2
+    projectPath: Library\Artifacts\0e\0e8a817322353864894b5d6b141985f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\0e\0ec9dff98a09a0224ac01657b1fb9607
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\0e\0ec9dff98a09a0224ac01657b1fb9607
+    projectPath: Library\Artifacts\0e\0ec9dff98a09a0224ac01657b1fb9607
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\10\1081d8e6dac65e0cdc64dbd0056bc48e
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\10\1081d8e6dac65e0cdc64dbd0056bc48e
+    projectPath: Library\Artifacts\10\1081d8e6dac65e0cdc64dbd0056bc48e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\13\135a1744a7d68606269173d59596bb44
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\13\135a1744a7d68606269173d59596bb44
+    projectPath: Library\Artifacts\13\135a1744a7d68606269173d59596bb44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\16\16c92390987c3227597d9c1d5833e6ea
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\16\16c92390987c3227597d9c1d5833e6ea
+    projectPath: Library\Artifacts\16\16c92390987c3227597d9c1d5833e6ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\18\1846ba5ee520afa6f72e5dcf7149bea6
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\18\1846ba5ee520afa6f72e5dcf7149bea6
+    projectPath: Library\Artifacts\18\1846ba5ee520afa6f72e5dcf7149bea6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\18\1855a99f8c2a4d4947c4b2d8d1c8b0da
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\18\1855a99f8c2a4d4947c4b2d8d1c8b0da
+    projectPath: Library\Artifacts\18\1855a99f8c2a4d4947c4b2d8d1c8b0da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\18\18bdcee71f6616f7968594090f469e81
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\18\18bdcee71f6616f7968594090f469e81
+    projectPath: Library\Artifacts\18\18bdcee71f6616f7968594090f469e81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\19\198bb777b76c15fb4d3bb6e5da2d5066
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\19\198bb777b76c15fb4d3bb6e5da2d5066
+    projectPath: Library\Artifacts\19\198bb777b76c15fb4d3bb6e5da2d5066
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\1b\1bd26f88d3dc5c4d9d162d4f6008a500
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\1b\1bd26f88d3dc5c4d9d162d4f6008a500
+    projectPath: Library\Artifacts\1b\1bd26f88d3dc5c4d9d162d4f6008a500
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\1e\1eaebe183b4f3ada46a12edab9f13e32
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\1e\1eaebe183b4f3ada46a12edab9f13e32
+    projectPath: Library\Artifacts\1e\1eaebe183b4f3ada46a12edab9f13e32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\21\214c18e0cbd1ca81e97ee4bc75dfb60f
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\21\214c18e0cbd1ca81e97ee4bc75dfb60f
+    projectPath: Library\Artifacts\21\214c18e0cbd1ca81e97ee4bc75dfb60f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\21\219eab2c847adb08b21468a063d955ba
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\21\219eab2c847adb08b21468a063d955ba
+    projectPath: Library\Artifacts\21\219eab2c847adb08b21468a063d955ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\21\21bfa4beda21932652cf26bbd8369b5b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\21\21bfa4beda21932652cf26bbd8369b5b
+    projectPath: Library\Artifacts\21\21bfa4beda21932652cf26bbd8369b5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\22\22283b80932d563ad399e3ade9f0dc9f
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\22\22283b80932d563ad399e3ade9f0dc9f
+    projectPath: Library\Artifacts\22\22283b80932d563ad399e3ade9f0dc9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\27\271f5c54da0861a9ccf922c88e163296
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\27\271f5c54da0861a9ccf922c88e163296
+    projectPath: Library\Artifacts\27\271f5c54da0861a9ccf922c88e163296
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\27\27a898f73fc9ec37b0e84e72a50cfd21
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\27\27a898f73fc9ec37b0e84e72a50cfd21
+    projectPath: Library\Artifacts\27\27a898f73fc9ec37b0e84e72a50cfd21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\28\282e7c6117f36b38e5c03c7aea2e0ae3
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\28\282e7c6117f36b38e5c03c7aea2e0ae3
+    projectPath: Library\Artifacts\28\282e7c6117f36b38e5c03c7aea2e0ae3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\28\288d491acd8e8786075824adde6f61b1
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\28\288d491acd8e8786075824adde6f61b1
+    projectPath: Library\Artifacts\28\288d491acd8e8786075824adde6f61b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\28\28b918876fb813843f49e71d3ff1ec71
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\28\28b918876fb813843f49e71d3ff1ec71
+    projectPath: Library\Artifacts\28\28b918876fb813843f49e71d3ff1ec71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\28\28fe7fe4eb26ab38195fb39adafc68e6
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\28\28fe7fe4eb26ab38195fb39adafc68e6
+    projectPath: Library\Artifacts\28\28fe7fe4eb26ab38195fb39adafc68e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\2d\2d4b7f59aa80e259c662228f11f83820
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\2d\2d4b7f59aa80e259c662228f11f83820
+    projectPath: Library\Artifacts\2d\2d4b7f59aa80e259c662228f11f83820
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\32\32b8d00d2879d2524b2078fa6a0b8ed7
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\32\32b8d00d2879d2524b2078fa6a0b8ed7
+    projectPath: Library\Artifacts\32\32b8d00d2879d2524b2078fa6a0b8ed7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\32\32f76e5d3f55572afb8b1f94f1397060
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\32\32f76e5d3f55572afb8b1f94f1397060
+    projectPath: Library\Artifacts\32\32f76e5d3f55572afb8b1f94f1397060
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\38\380312d2ecb9c211fcb18510217fd64b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\38\380312d2ecb9c211fcb18510217fd64b
+    projectPath: Library\Artifacts\38\380312d2ecb9c211fcb18510217fd64b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\38\38b30176f879b948eede368884e5ed21
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\38\38b30176f879b948eede368884e5ed21
+    projectPath: Library\Artifacts\38\38b30176f879b948eede368884e5ed21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\3b\3b6147a821e2e895d276a121bc52fa0d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\3b\3b6147a821e2e895d276a121bc52fa0d
+    projectPath: Library\Artifacts\3b\3b6147a821e2e895d276a121bc52fa0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\3e\3e72a19039a975031e46bec786ec7d40
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\3e\3e72a19039a975031e46bec786ec7d40
+    projectPath: Library\Artifacts\3e\3e72a19039a975031e46bec786ec7d40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\41\412d835939417e150d3eec304b440b89
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\41\412d835939417e150d3eec304b440b89
+    projectPath: Library\Artifacts\41\412d835939417e150d3eec304b440b89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\41\416b567e183522de056ba4af21205d37
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\41\416b567e183522de056ba4af21205d37
+    projectPath: Library\Artifacts\41\416b567e183522de056ba4af21205d37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\45\4581454f93a0bf69dc2a9bdfa32afd6c
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\45\4581454f93a0bf69dc2a9bdfa32afd6c
+    projectPath: Library\Artifacts\45\4581454f93a0bf69dc2a9bdfa32afd6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\49\49b3b969bd94f462e84d68e275f4ee49
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\49\49b3b969bd94f462e84d68e275f4ee49
+    projectPath: Library\Artifacts\49\49b3b969bd94f462e84d68e275f4ee49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\4d\4dbb11d3e9c1fc013b710f1c9656c8fd
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\4d\4dbb11d3e9c1fc013b710f1c9656c8fd
+    projectPath: Library\Artifacts\4d\4dbb11d3e9c1fc013b710f1c9656c8fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\50\50b307eb6fddad9c9047164c0398e521
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\50\50b307eb6fddad9c9047164c0398e521
+    projectPath: Library\Artifacts\50\50b307eb6fddad9c9047164c0398e521
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\51\51ed76309ca2ce52a2480c709a25d0de
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\51\51ed76309ca2ce52a2480c709a25d0de
+    projectPath: Library\Artifacts\51\51ed76309ca2ce52a2480c709a25d0de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\52\520d37d95a31fa6b282bc104fa722e2f
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\52\520d37d95a31fa6b282bc104fa722e2f
+    projectPath: Library\Artifacts\52\520d37d95a31fa6b282bc104fa722e2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\52\524f5f4bbbfbd00081a734c1c534aefd
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\52\524f5f4bbbfbd00081a734c1c534aefd
+    projectPath: Library\Artifacts\52\524f5f4bbbfbd00081a734c1c534aefd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\52\525fc6fba90f36eca5c89ade1f988e68
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\52\525fc6fba90f36eca5c89ade1f988e68
+    projectPath: Library\Artifacts\52\525fc6fba90f36eca5c89ade1f988e68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\56\567f158b26ecdcaafd9011d09d59e56f
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\56\567f158b26ecdcaafd9011d09d59e56f
+    projectPath: Library\Artifacts\56\567f158b26ecdcaafd9011d09d59e56f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\5a\5acb0610821b3dea9c922d593acda02c
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\5a\5acb0610821b3dea9c922d593acda02c
+    projectPath: Library\Artifacts\5a\5acb0610821b3dea9c922d593acda02c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\5c\5c173a32d928127b37691484fe7d94b8
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\5c\5c173a32d928127b37691484fe7d94b8
+    projectPath: Library\Artifacts\5c\5c173a32d928127b37691484fe7d94b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\5e\5eda3d89d5faefa013217ca74fedb77a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\5e\5eda3d89d5faefa013217ca74fedb77a
+    projectPath: Library\Artifacts\5e\5eda3d89d5faefa013217ca74fedb77a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\5f\5fb2710eac68bf6be5d5b43f6b48f7e7
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\5f\5fb2710eac68bf6be5d5b43f6b48f7e7
+    projectPath: Library\Artifacts\5f\5fb2710eac68bf6be5d5b43f6b48f7e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\60\6023a8f50475ce39a3bfe7a6e2bc741d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\60\6023a8f50475ce39a3bfe7a6e2bc741d
+    projectPath: Library\Artifacts\60\6023a8f50475ce39a3bfe7a6e2bc741d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\64\64504be5df394fe0917cc182faf4782a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\64\64504be5df394fe0917cc182faf4782a
+    projectPath: Library\Artifacts\64\64504be5df394fe0917cc182faf4782a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\65\65e2f0e0c811c114f8bdc001f0cd30d2
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\65\65e2f0e0c811c114f8bdc001f0cd30d2
+    projectPath: Library\Artifacts\65\65e2f0e0c811c114f8bdc001f0cd30d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\67\67372604fc5626142d4e0a704b1abc1a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\67\67372604fc5626142d4e0a704b1abc1a
+    projectPath: Library\Artifacts\67\67372604fc5626142d4e0a704b1abc1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\67\674b2378ddebde15933f72a6389cd9ea
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\67\674b2378ddebde15933f72a6389cd9ea
+    projectPath: Library\Artifacts\67\674b2378ddebde15933f72a6389cd9ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\68\68503b03720427fdfefca4f942b60906
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\68\68503b03720427fdfefca4f942b60906
+    projectPath: Library\Artifacts\68\68503b03720427fdfefca4f942b60906
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\6a\6a9c6e5e927cd9dce69f6564c87a73f6
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\6a\6a9c6e5e927cd9dce69f6564c87a73f6
+    projectPath: Library\Artifacts\6a\6a9c6e5e927cd9dce69f6564c87a73f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\6d\6d684cd47565898fbbd8dd64c6be757a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\6d\6d684cd47565898fbbd8dd64c6be757a
+    projectPath: Library\Artifacts\6d\6d684cd47565898fbbd8dd64c6be757a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
+    projectPath: Library\Artifacts\70\701b50b14d4eed126856013c0f4fe977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\77\770d904397a06eff13b7ad24515c9695
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\77\770d904397a06eff13b7ad24515c9695
+    projectPath: Library\Artifacts\77\770d904397a06eff13b7ad24515c9695
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\7a\7ae80a1c22ae17b20c89c15866ec3f30
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\7a\7ae80a1c22ae17b20c89c15866ec3f30
+    projectPath: Library\Artifacts\7a\7ae80a1c22ae17b20c89c15866ec3f30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\7b\7b196030fe9704dbea74b444b6c9fcfd
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\7b\7b196030fe9704dbea74b444b6c9fcfd
+    projectPath: Library\Artifacts\7b\7b196030fe9704dbea74b444b6c9fcfd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\7d\7dcb355efee6da7c58c4ee949f1754a2
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\7d\7dcb355efee6da7c58c4ee949f1754a2
+    projectPath: Library\Artifacts\7d\7dcb355efee6da7c58c4ee949f1754a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\81\8158f56a40786049997615c99b0400df
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\81\8158f56a40786049997615c99b0400df
+    projectPath: Library\Artifacts\81\8158f56a40786049997615c99b0400df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\81\81ea51da2b498fa765a12d2362fef941
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\81\81ea51da2b498fa765a12d2362fef941
+    projectPath: Library\Artifacts\81\81ea51da2b498fa765a12d2362fef941
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\82\828c6f7cc23287a15917ac25658d5162
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\82\828c6f7cc23287a15917ac25658d5162
+    projectPath: Library\Artifacts\82\828c6f7cc23287a15917ac25658d5162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\83\83871d4015837bd206ceb92118968619
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\83\83871d4015837bd206ceb92118968619
+    projectPath: Library\Artifacts\83\83871d4015837bd206ceb92118968619
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\83\83fd158f9a77402c27411c6ccd5ce521
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\83\83fd158f9a77402c27411c6ccd5ce521
+    projectPath: Library\Artifacts\83\83fd158f9a77402c27411c6ccd5ce521
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\84\84969a38b38604cb93f6b3c0a27ea66d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\84\84969a38b38604cb93f6b3c0a27ea66d
+    projectPath: Library\Artifacts\84\84969a38b38604cb93f6b3c0a27ea66d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\85\856107e6e1000673518cc4708774ee49
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\85\856107e6e1000673518cc4708774ee49
+    projectPath: Library\Artifacts\85\856107e6e1000673518cc4708774ee49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\86\860a27d5eeef1a6daa2e65ea7efb6ecb
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\86\860a27d5eeef1a6daa2e65ea7efb6ecb
+    projectPath: Library\Artifacts\86\860a27d5eeef1a6daa2e65ea7efb6ecb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\87\875824d4706e18abb1947898c808fdfc
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\87\875824d4706e18abb1947898c808fdfc
+    projectPath: Library\Artifacts\87\875824d4706e18abb1947898c808fdfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\87\87ad6ecf7ca306991197009f43dd4c8a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\87\87ad6ecf7ca306991197009f43dd4c8a
+    projectPath: Library\Artifacts\87\87ad6ecf7ca306991197009f43dd4c8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\87\87fb28194648dcf397cc7fabbf14633a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\87\87fb28194648dcf397cc7fabbf14633a
+    projectPath: Library\Artifacts\87\87fb28194648dcf397cc7fabbf14633a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\88\88594af0f8a99b575c1d9ee7bc4b6b83
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\88\88594af0f8a99b575c1d9ee7bc4b6b83
+    projectPath: Library\Artifacts\88\88594af0f8a99b575c1d9ee7bc4b6b83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8a\8a2fb497cd13bdc64d6e6c6376f40c0f
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8a\8a2fb497cd13bdc64d6e6c6376f40c0f
+    projectPath: Library\Artifacts\8a\8a2fb497cd13bdc64d6e6c6376f40c0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8a\8a39ed5be9c4400d599e4fb84b013b3b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8a\8a39ed5be9c4400d599e4fb84b013b3b
+    projectPath: Library\Artifacts\8a\8a39ed5be9c4400d599e4fb84b013b3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8b\8b4d44aad881689db4578e448fddb03e
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8b\8b4d44aad881689db4578e448fddb03e
+    projectPath: Library\Artifacts\8b\8b4d44aad881689db4578e448fddb03e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8b\8b5a5dd11a892086978f7d73acc84322
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8b\8b5a5dd11a892086978f7d73acc84322
+    projectPath: Library\Artifacts\8b\8b5a5dd11a892086978f7d73acc84322
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8c\8c6364cbf7477845d6aa5a31456f53ba
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8c\8c6364cbf7477845d6aa5a31456f53ba
+    projectPath: Library\Artifacts\8c\8c6364cbf7477845d6aa5a31456f53ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8c\8c866a8823bd994d8c1b51363e5330e4
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8c\8c866a8823bd994d8c1b51363e5330e4
+    projectPath: Library\Artifacts\8c\8c866a8823bd994d8c1b51363e5330e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\8d\8d3d6c9de60de008f1b7fa5bc2811cbc
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\8d\8d3d6c9de60de008f1b7fa5bc2811cbc
+    projectPath: Library\Artifacts\8d\8d3d6c9de60de008f1b7fa5bc2811cbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\90\9027d317584da5d3f94c6a9ef488f260
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\90\9027d317584da5d3f94c6a9ef488f260
+    projectPath: Library\Artifacts\90\9027d317584da5d3f94c6a9ef488f260
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\91\9117bf468b5816cb3315e81d81815980
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\91\9117bf468b5816cb3315e81d81815980
+    projectPath: Library\Artifacts\91\9117bf468b5816cb3315e81d81815980
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\95\95857c947e2dbd55e610bff870357d3d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\95\95857c947e2dbd55e610bff870357d3d
+    projectPath: Library\Artifacts\95\95857c947e2dbd55e610bff870357d3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\96\96b19955ae860239bfcc635ae85bb178
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\96\96b19955ae860239bfcc635ae85bb178
+    projectPath: Library\Artifacts\96\96b19955ae860239bfcc635ae85bb178
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\99\9953131df51b4cd9256ee10020256f5d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\99\9953131df51b4cd9256ee10020256f5d
+    projectPath: Library\Artifacts\99\9953131df51b4cd9256ee10020256f5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\9b\9b6fc131cfe4987335136aca060851b9
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\9b\9b6fc131cfe4987335136aca060851b9
+    projectPath: Library\Artifacts\9b\9b6fc131cfe4987335136aca060851b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\9b\9bb4626d50ea088706d2f2759325cf6e
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\9b\9bb4626d50ea088706d2f2759325cf6e
+    projectPath: Library\Artifacts\9b\9bb4626d50ea088706d2f2759325cf6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\9d\9d67ab442787877049823a989a7e69bc
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\9d\9d67ab442787877049823a989a7e69bc
+    projectPath: Library\Artifacts\9d\9d67ab442787877049823a989a7e69bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\9e\9e008c0c4d41840cfd5f71dc9bbc9c47
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\9e\9e008c0c4d41840cfd5f71dc9bbc9c47
+    projectPath: Library\Artifacts\9e\9e008c0c4d41840cfd5f71dc9bbc9c47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\9e\9e352928d0a3e7d83e47b7d4e40314cb
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\9e\9e352928d0a3e7d83e47b7d4e40314cb
+    projectPath: Library\Artifacts\9e\9e352928d0a3e7d83e47b7d4e40314cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\9e\9ee8f68696a66245a111894c8359f9d3
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\9e\9ee8f68696a66245a111894c8359f9d3
+    projectPath: Library\Artifacts\9e\9ee8f68696a66245a111894c8359f9d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\a0\a0d465789f96dba7633dfb96fe701e1d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\a0\a0d465789f96dba7633dfb96fe701e1d
+    projectPath: Library\Artifacts\a0\a0d465789f96dba7633dfb96fe701e1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\a4\a40b2855b99b092000545523ddfbee2f
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\a4\a40b2855b99b092000545523ddfbee2f
+    projectPath: Library\Artifacts\a4\a40b2855b99b092000545523ddfbee2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\a4\a46619603967778a8dc7968083153722
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\a4\a46619603967778a8dc7968083153722
+    projectPath: Library\Artifacts\a4\a46619603967778a8dc7968083153722
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\a4\a4dc061eb6add9009f49b150090dd739
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\a4\a4dc061eb6add9009f49b150090dd739
+    projectPath: Library\Artifacts\a4\a4dc061eb6add9009f49b150090dd739
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ab\ab00045576792284e36da23ced19a1e1
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ab\ab00045576792284e36da23ced19a1e1
+    projectPath: Library\Artifacts\ab\ab00045576792284e36da23ced19a1e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ac\ace4a68035b55620f7ca5a191864ebc7
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ac\ace4a68035b55620f7ca5a191864ebc7
+    projectPath: Library\Artifacts\ac\ace4a68035b55620f7ca5a191864ebc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ad\adabc5a578175076b7b872183c137275
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ad\adabc5a578175076b7b872183c137275
+    projectPath: Library\Artifacts\ad\adabc5a578175076b7b872183c137275
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ae\ae4ba54411c110cdefbcc34f0dcb6a4e
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ae\ae4ba54411c110cdefbcc34f0dcb6a4e
+    projectPath: Library\Artifacts\ae\ae4ba54411c110cdefbcc34f0dcb6a4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ae\ae84eeae8a4c9549a67c947426de6477
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ae\ae84eeae8a4c9549a67c947426de6477
+    projectPath: Library\Artifacts\ae\ae84eeae8a4c9549a67c947426de6477
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ae\ae894b9e2f52b86a7f44b4a24d4c29b9
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ae\ae894b9e2f52b86a7f44b4a24d4c29b9
+    projectPath: Library\Artifacts\ae\ae894b9e2f52b86a7f44b4a24d4c29b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\b7\b75936f1be43f71ca979924d8928fad4
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\b7\b75936f1be43f71ca979924d8928fad4
+    projectPath: Library\Artifacts\b7\b75936f1be43f71ca979924d8928fad4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c0\c0c3f66dd836499209de38b22caf9205
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c0\c0c3f66dd836499209de38b22caf9205
+    projectPath: Library\Artifacts\c0\c0c3f66dd836499209de38b22caf9205
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c1\c1b0d4fada7431633f0bf49123e78299
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c1\c1b0d4fada7431633f0bf49123e78299
+    projectPath: Library\Artifacts\c1\c1b0d4fada7431633f0bf49123e78299
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c4\c42e122939623991b7f8bd38828def97
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c4\c42e122939623991b7f8bd38828def97
+    projectPath: Library\Artifacts\c4\c42e122939623991b7f8bd38828def97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c6\c61ce204da06c73173f722c0032b97ee
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c6\c61ce204da06c73173f722c0032b97ee
+    projectPath: Library\Artifacts\c6\c61ce204da06c73173f722c0032b97ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c7\c75f9a008f6648e10a51e3d05d40c3a6
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c7\c75f9a008f6648e10a51e3d05d40c3a6
+    projectPath: Library\Artifacts\c7\c75f9a008f6648e10a51e3d05d40c3a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c8\c800926219152f053d3dcde1051d5f54
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c8\c800926219152f053d3dcde1051d5f54
+    projectPath: Library\Artifacts\c8\c800926219152f053d3dcde1051d5f54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c9\c9304279af2b22fc2963c506f862d53d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c9\c9304279af2b22fc2963c506f862d53d
+    projectPath: Library\Artifacts\c9\c9304279af2b22fc2963c506f862d53d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\c9\c9ec4cbdccc10fa569e96c421247f30b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\c9\c9ec4cbdccc10fa569e96c421247f30b
+    projectPath: Library\Artifacts\c9\c9ec4cbdccc10fa569e96c421247f30b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\cb\cb3a9e5bdd9e4a597ea965a96ca0692d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\cb\cb3a9e5bdd9e4a597ea965a96ca0692d
+    projectPath: Library\Artifacts\cb\cb3a9e5bdd9e4a597ea965a96ca0692d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\cb\cb8ab126043bef755ae9464c2df5935b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\cb\cb8ab126043bef755ae9464c2df5935b
+    projectPath: Library\Artifacts\cb\cb8ab126043bef755ae9464c2df5935b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ce\ce8404a6ddd1ad3dab309a387b88d260
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ce\ce8404a6ddd1ad3dab309a387b88d260
+    projectPath: Library\Artifacts\ce\ce8404a6ddd1ad3dab309a387b88d260
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\cf\cf291ed983a25a6e09fa02795496d40b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\cf\cf291ed983a25a6e09fa02795496d40b
+    projectPath: Library\Artifacts\cf\cf291ed983a25a6e09fa02795496d40b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d0\d0a05abc3b436d18c3696ec46c851e09
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d0\d0a05abc3b436d18c3696ec46c851e09
+    projectPath: Library\Artifacts\d0\d0a05abc3b436d18c3696ec46c851e09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d2\d2710956015051cb22821bfc6a60ac83
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d2\d2710956015051cb22821bfc6a60ac83
+    projectPath: Library\Artifacts\d2\d2710956015051cb22821bfc6a60ac83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d2\d2b1715e5d23a7fead524c6031d75d52
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d2\d2b1715e5d23a7fead524c6031d75d52
+    projectPath: Library\Artifacts\d2\d2b1715e5d23a7fead524c6031d75d52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
+    projectPath: Library\Artifacts\d3\d38aab87e48d6a1e10f27dadeb9e627b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d3\d3f467438eaee64f083e53cbf6d0677c
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d3\d3f467438eaee64f083e53cbf6d0677c
+    projectPath: Library\Artifacts\d3\d3f467438eaee64f083e53cbf6d0677c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d4\d49616cdde778191478671f3951fd471
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d4\d49616cdde778191478671f3951fd471
+    projectPath: Library\Artifacts\d4\d49616cdde778191478671f3951fd471
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d6\d61d6e28691c0b727b6773e6e0e89fa7
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d6\d61d6e28691c0b727b6773e6e0e89fa7
+    projectPath: Library\Artifacts\d6\d61d6e28691c0b727b6773e6e0e89fa7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d6\d647876ec79d9f969dc5cb10de6e60dc
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d6\d647876ec79d9f969dc5cb10de6e60dc
+    projectPath: Library\Artifacts\d6\d647876ec79d9f969dc5cb10de6e60dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\d7\d78b878210ea78c17a24311f4cbe41e2
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\d7\d78b878210ea78c17a24311f4cbe41e2
+    projectPath: Library\Artifacts\d7\d78b878210ea78c17a24311f4cbe41e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\da\dadd7a5727dea8eca19f296949eadc44
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\da\dadd7a5727dea8eca19f296949eadc44
+    projectPath: Library\Artifacts\da\dadd7a5727dea8eca19f296949eadc44
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\dc\dc1c8a38f973b8e128ef3a972741f47a
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\dc\dc1c8a38f973b8e128ef3a972741f47a
+    projectPath: Library\Artifacts\dc\dc1c8a38f973b8e128ef3a972741f47a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\dc\dcee63074531b111eb0a1356980ed54d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\dc\dcee63074531b111eb0a1356980ed54d
+    projectPath: Library\Artifacts\dc\dcee63074531b111eb0a1356980ed54d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\df\df3192c240bf8d2b6dec1c8937496522
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\df\df3192c240bf8d2b6dec1c8937496522
+    projectPath: Library\Artifacts\df\df3192c240bf8d2b6dec1c8937496522
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\e0\e063f5a7f64750c236f5151e81843a6d
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\e0\e063f5a7f64750c236f5151e81843a6d
+    projectPath: Library\Artifacts\e0\e063f5a7f64750c236f5151e81843a6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\e2\e28487332ab23aebcceb173af84bf08c
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\e2\e28487332ab23aebcceb173af84bf08c
+    projectPath: Library\Artifacts\e2\e28487332ab23aebcceb173af84bf08c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\e5\e5e1684fa299a9f968610d78d2259559
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\e5\e5e1684fa299a9f968610d78d2259559
+    projectPath: Library\Artifacts\e5\e5e1684fa299a9f968610d78d2259559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\e7\e7b357907d4c22b9d33f97181c5c6cae
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\e7\e7b357907d4c22b9d33f97181c5c6cae
+    projectPath: Library\Artifacts\e7\e7b357907d4c22b9d33f97181c5c6cae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\e8\e8566868cc272b9d287824afd41c3c60
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\e8\e8566868cc272b9d287824afd41c3c60
+    projectPath: Library\Artifacts\e8\e8566868cc272b9d287824afd41c3c60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\eb\eb2b177894c3ed7f130d74b52d173733
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\eb\eb2b177894c3ed7f130d74b52d173733
+    projectPath: Library\Artifacts\eb\eb2b177894c3ed7f130d74b52d173733
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\f1\f1eecbdc77fe6cfa9d591fe615692ce2
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\f1\f1eecbdc77fe6cfa9d591fe615692ce2
+    projectPath: Library\Artifacts\f1\f1eecbdc77fe6cfa9d591fe615692ce2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\f3\f360528b665cfca5c1204399ef036480
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\f3\f360528b665cfca5c1204399ef036480
+    projectPath: Library\Artifacts\f3\f360528b665cfca5c1204399ef036480
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\f5\f5e640d2cd5cdc105ed35a695a64b76b
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\f5\f5e640d2cd5cdc105ed35a695a64b76b
+    projectPath: Library\Artifacts\f5\f5e640d2cd5cdc105ed35a695a64b76b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\f7\f735d6cb15c2ad4f228b0628d8a097ad
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\f7\f735d6cb15c2ad4f228b0628d8a097ad
+    projectPath: Library\Artifacts\f7\f735d6cb15c2ad4f228b0628d8a097ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\f7\f75b1e817689665fe1b549bb2187de14
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\f7\f75b1e817689665fe1b549bb2187de14
+    projectPath: Library\Artifacts\f7\f75b1e817689665fe1b549bb2187de14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\f9\f98bef1dcb0853008261af3b148e8e27
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\f9\f98bef1dcb0853008261af3b148e8e27
+    projectPath: Library\Artifacts\f9\f98bef1dcb0853008261af3b148e8e27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\fb\fb88172b881ec59568b46194959d1780
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\fb\fb88172b881ec59568b46194959d1780
+    projectPath: Library\Artifacts\fb\fb88172b881ec59568b46194959d1780
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\fb\fbed4129114c62123c4fda3b4d485492
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\fb\fbed4129114c62123c4fda3b4d485492
+    projectPath: Library\Artifacts\fb\fbed4129114c62123c4fda3b4d485492
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\fd\fd74e4609cafb8c63c3094d26e795078
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\fd\fd74e4609cafb8c63c3094d26e795078
+    projectPath: Library\Artifacts\fd\fd74e4609cafb8c63c3094d26e795078
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\Artifacts\ff\ff04cd1875e436736a4da6af9c8c21cf
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\Artifacts\ff\ff04cd1875e436736a4da6af9c8c21cf
+    projectPath: Library\Artifacts\ff\ff04cd1875e436736a4da6af9c8c21cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\EditorInstance.json
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\EditorSnapSettings.asset
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\expandedItems
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\ShaderCache.db
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\ShaderCache\1\1249d515da6f9141c1800ad06a5f18c3.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\1\1249d515da6f9141c1800ad06a5f18c3.bin
+    projectPath: Library\ShaderCache\1\1249d515da6f9141c1800ad06a5f18c3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\1\15a01b54761845bdd73929c03c88a08c.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\1\15a01b54761845bdd73929c03c88a08c.bin
+    projectPath: Library\ShaderCache\1\15a01b54761845bdd73929c03c88a08c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\1\1684b38b7cb1322324a268842936d371.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\1\1684b38b7cb1322324a268842936d371.bin
+    projectPath: Library\ShaderCache\1\1684b38b7cb1322324a268842936d371.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\1\1ab5bd43c5543883acb6c30b575da96c.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\1\1ab5bd43c5543883acb6c30b575da96c.bin
+    projectPath: Library\ShaderCache\1\1ab5bd43c5543883acb6c30b575da96c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\2\280a81e28b8137ebc5b112ce17d8ef24.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\2\280a81e28b8137ebc5b112ce17d8ef24.bin
+    projectPath: Library\ShaderCache\2\280a81e28b8137ebc5b112ce17d8ef24.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\3\31414e8bfd8da72ad76d6d66834d8764.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\3\31414e8bfd8da72ad76d6d66834d8764.bin
+    projectPath: Library\ShaderCache\3\31414e8bfd8da72ad76d6d66834d8764.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\3\34ba7b0ed9f3fa6901f488e67502b60f.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\3\34ba7b0ed9f3fa6901f488e67502b60f.bin
+    projectPath: Library\ShaderCache\3\34ba7b0ed9f3fa6901f488e67502b60f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\3\39c4dcbd0500d261ce3aa793fbc65a51.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\3\39c4dcbd0500d261ce3aa793fbc65a51.bin
+    projectPath: Library\ShaderCache\3\39c4dcbd0500d261ce3aa793fbc65a51.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\4\4245cf26109e802c4080b4f91e277990.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\4\4245cf26109e802c4080b4f91e277990.bin
+    projectPath: Library\ShaderCache\4\4245cf26109e802c4080b4f91e277990.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\4\450a6c007cbc2c24e50076a617a19fac.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\4\450a6c007cbc2c24e50076a617a19fac.bin
+    projectPath: Library\ShaderCache\4\450a6c007cbc2c24e50076a617a19fac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\4\4d46ac74dd1f96d5003d7b783ff6f924.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\4\4d46ac74dd1f96d5003d7b783ff6f924.bin
+    projectPath: Library\ShaderCache\4\4d46ac74dd1f96d5003d7b783ff6f924.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\5\58d9f4c9b0633590ab36929d1a1b4c1f.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\5\58d9f4c9b0633590ab36929d1a1b4c1f.bin
+    projectPath: Library\ShaderCache\5\58d9f4c9b0633590ab36929d1a1b4c1f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\5\5ba998e11ab6ff05fd3ff6c8f1e7cd44.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\5\5ba998e11ab6ff05fd3ff6c8f1e7cd44.bin
+    projectPath: Library\ShaderCache\5\5ba998e11ab6ff05fd3ff6c8f1e7cd44.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\6\66aca872330e54c3720871df3aca42c4.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\6\66aca872330e54c3720871df3aca42c4.bin
+    projectPath: Library\ShaderCache\6\66aca872330e54c3720871df3aca42c4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\7\7a566af741c4d875d938772a0169f84d.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\7\7a566af741c4d875d938772a0169f84d.bin
+    projectPath: Library\ShaderCache\7\7a566af741c4d875d938772a0169f84d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\7\7b180cd7f75303c998794303f1f2d21f.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\7\7b180cd7f75303c998794303f1f2d21f.bin
+    projectPath: Library\ShaderCache\7\7b180cd7f75303c998794303f1f2d21f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\7\7eaf39b8898286277317efb09b550502.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\7\7eaf39b8898286277317efb09b550502.bin
+    projectPath: Library\ShaderCache\7\7eaf39b8898286277317efb09b550502.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\7\7eef745aa406cf651ffbd15c4a91d8d0.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\7\7eef745aa406cf651ffbd15c4a91d8d0.bin
+    projectPath: Library\ShaderCache\7\7eef745aa406cf651ffbd15c4a91d8d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\8\81dbbbdab7f67c87906a8dc2fa78e1f4.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\8\81dbbbdab7f67c87906a8dc2fa78e1f4.bin
+    projectPath: Library\ShaderCache\8\81dbbbdab7f67c87906a8dc2fa78e1f4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\8\847b07dd7652015190676ddbbf6f2dbe.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\8\847b07dd7652015190676ddbbf6f2dbe.bin
+    projectPath: Library\ShaderCache\8\847b07dd7652015190676ddbbf6f2dbe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\8\8654154f466428e0449cf0715b9f81ef.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\8\8654154f466428e0449cf0715b9f81ef.bin
+    projectPath: Library\ShaderCache\8\8654154f466428e0449cf0715b9f81ef.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\9\98b6b7169a416f9a91684f78fd3021a3.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\9\98b6b7169a416f9a91684f78fd3021a3.bin
+    projectPath: Library\ShaderCache\9\98b6b7169a416f9a91684f78fd3021a3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\9\9b04fb7e6d93634771c82f4da8a82ad0.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\9\9b04fb7e6d93634771c82f4da8a82ad0.bin
+    projectPath: Library\ShaderCache\9\9b04fb7e6d93634771c82f4da8a82ad0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\9\9b9760709a1451b86ec2c4bf7c638bfb.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\9\9b9760709a1451b86ec2c4bf7c638bfb.bin
+    projectPath: Library\ShaderCache\9\9b9760709a1451b86ec2c4bf7c638bfb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\a\a1473580d70acbdf4b5b75866e548b0d.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\a\a1473580d70acbdf4b5b75866e548b0d.bin
+    projectPath: Library\ShaderCache\a\a1473580d70acbdf4b5b75866e548b0d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\a\a49bd5560fc99a1f8b6304ad15bf6cc0.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\a\a49bd5560fc99a1f8b6304ad15bf6cc0.bin
+    projectPath: Library\ShaderCache\a\a49bd5560fc99a1f8b6304ad15bf6cc0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\b\b9424cf2af779921fda6506ebeb8cdb9.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\b\b9424cf2af779921fda6506ebeb8cdb9.bin
+    projectPath: Library\ShaderCache\b\b9424cf2af779921fda6506ebeb8cdb9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\c\c90630c9e6da7983e2b7f17523508175.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\c\c90630c9e6da7983e2b7f17523508175.bin
+    projectPath: Library\ShaderCache\c\c90630c9e6da7983e2b7f17523508175.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\c\cc858c2185b3d15e87f12186a39cc855.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\c\cc858c2185b3d15e87f12186a39cc855.bin
+    projectPath: Library\ShaderCache\c\cc858c2185b3d15e87f12186a39cc855.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\d\dcb6bf850cd7a3bb77639bebcbcbb569.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\d\dcb6bf850cd7a3bb77639bebcbcbb569.bin
+    projectPath: Library\ShaderCache\d\dcb6bf850cd7a3bb77639bebcbcbb569.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\e\e203de0b43bb7d62db9b95a06baf2a3a.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\e\e203de0b43bb7d62db9b95a06baf2a3a.bin
+    projectPath: Library\ShaderCache\e\e203de0b43bb7d62db9b95a06baf2a3a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\ShaderCache\f\f0fa0374cd8749e0907de39f989a2536.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\f\f0fa0374cd8749e0907de39f989a2536.bin
+    projectPath: Library\ShaderCache\f\f0fa0374cd8749e0907de39f989a2536.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\f\f1949145ac79c68abddbd3e4feff2777.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\f\f1949145ac79c68abddbd3e4feff2777.bin
+    projectPath: Library\ShaderCache\f\f1949145ac79c68abddbd3e4feff2777.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\ShaderCache\f\f794c7f61461d4907f76a94689f11704.bin
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\ShaderCache\f\f794c7f61461d4907f76a94689f11704.bin
+    projectPath: Library\ShaderCache\f\f794c7f61461d4907f76a94689f11704.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Library\SourceAssetDB
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Soul-Game\Temp\UnityLockfile
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Soul-Game\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\kevin\Documents\GitHub\Soul-Game\Soul-Game\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
