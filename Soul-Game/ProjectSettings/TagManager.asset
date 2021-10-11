@@ -3,16 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pushable
+  - Fire
+  - Potion01
+  - Potion02
+  - Book
+  - Apple
+  - Table
+  - Plant
+  - Patrol
+  - Attack
+  - FoxPlushie
+  - Altar
+  - FoxGhost
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
+  - Pushable
+  - CollidersTriggers
   - 
   - 
   - 

@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: fe6f6badbd26fd14f9fc24fa4cb1ec77
+  - enabled: 1
+    path: Assets/Scenes/IntroLevel.unity
+    guid: 2af5b1e687d34fb4ba215f4d197ba581
+  - enabled: 1
+    path: Assets/Scenes/GhostVillage.unity
+    guid: 34daa9073cfab8a4389907caaaa58042
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fc792875cc43de542ace89245df34e19
+  - enabled: 1
+    path: Assets/Scenes/IntroLevelComplete.unity
+    guid: f95442f7e19116f45aa40a6bbfbad194
   m_configObjects: {}

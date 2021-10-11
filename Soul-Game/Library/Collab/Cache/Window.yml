@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Character Stats.meta
+    - Assets/Character Stats/CharacterStat.cs
+    - Assets/Character Stats/CharacterStat.cs.meta
+    - Assets/Character Stats/Examples.meta
+    - Assets/Character Stats/Examples/Items & Inventory.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Fonts.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Fonts/OLDTYPE PERSONAL USE___.otf
+    - Assets/Character Stats/Examples/Items & Inventory/Fonts/OLDTYPE PERSONAL USE___.otf.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/armor.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/armor.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axe.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axe.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axe2.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axe2.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axeDouble.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axeDouble.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axeDouble2.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/axeDouble2.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/backpack.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/backpack.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/bow.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/bow.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/coin.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/coin.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/dagger.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/dagger.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/envelope.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/envelope.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/gemBlue.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/gemBlue.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/gemGreen.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/gemGreen.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/gemRed.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/gemRed.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/hammer.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/hammer.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/heart.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/heart.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/helmet.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/helmet.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/map.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/map.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/potionBlue.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/potionBlue.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/potionGreen.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/potionGreen.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/potionRed.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/potionRed.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/scroll.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/scroll.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/shield.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/shield.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/shieldSmall.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/shieldSmall.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/tome.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/tome.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/tools.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/tools.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_armor.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_armor.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_axe.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_axe.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_axeDouble.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_axeDouble.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_bow.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_bow.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_dagger.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_dagger.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_hammer.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_hammer.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_helmet.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_helmet.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_shield.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_shield.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_shieldSmall.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_shieldSmall.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_spear.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_spear.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_sword.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_sword.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_wand.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/upg_wand.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/wand.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/wand.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/woodSword.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/woodSword.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/x.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/Item Icons/x.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Button.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Button.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Details.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Details.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/InventoryNoText.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/InventoryNoText.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Section Divider.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Section Divider.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Stats with Text.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Stats with Text.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Stats with TextII.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Stats with TextII.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Stats.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Stats.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Text Line.png
+    - Assets/Character Stats/Examples/Items & Inventory/Images/UI/Text Line.png.meta
+    - Assets/Character Stats/Examples/Items & Inventory/Items & Inventory.unity
+    - Assets/Character Stats/Examples/Items & Inventory/Items & Inventory.unity.meta
+    - Assets/Character Stats/Examples/Power Ups.meta
+    - Assets/Character Stats/Examples/Power Ups/Materials.meta
+    - Assets/Character Stats/Examples/Power Ups/Materials/Purple.mat
+    - Assets/Character Stats/Examples/Power Ups/Materials/Purple.mat.meta
+    - Assets/Character Stats/Examples/Power Ups/Materials/Yellow.mat
+    - Assets/Character Stats/Examples/Power Ups/Materials/Yellow.mat.meta
+    - Assets/Character Stats/Examples/Power Ups/Power Ups.unity
+    - Assets/Character Stats/Examples/Power Ups/Power Ups.unity.meta
+    - Assets/Character Stats/Examples/Power Ups/Prefabs.meta
+    - Assets/Character Stats/Examples/Power Ups/Prefabs/Platform.prefab
+    - Assets/Character Stats/Examples/Power Ups/Prefabs/Platform.prefab.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/DeathZone.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/DeathZone.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/MouseLook.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/MouseLook.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Movement.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Movement.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Platform.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Platform.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/PlatformGenerator.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/PlatformGenerator.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Player.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Player.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/PlayerBarUI.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/PlayerBarUI.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/PlayerTextUI.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/PlayerTextUI.cs.meta
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Powerup.cs
+    - Assets/Character Stats/Examples/Power Ups/Scripts/Powerup.cs.meta
+    - Assets/Character Stats/StatModifier.cs
+    - Assets/Character Stats/StatModifier.cs.meta
+    - Assets/Crafting Recipes.meta
+    - Assets/Crafting Recipes/Red Potion.asset
+    - Assets/Crafting Recipes/Red Potion.asset.meta
+    - Assets/Inventory and Stats UI/UI/Section Divider.png.meta
+    - Assets/Inventory and Stats UI/UI/Text Line.png.meta
+    - Assets/Items/Accessory 2.asset
+    - Assets/Items/Accessory 2.asset.meta
+    - Assets/Items/Accessory.asset
+    - Assets/Items/Accessory.asset.meta
+    - Assets/Items/Blue Potion.asset
+    - Assets/Items/Flower.asset
+    - Assets/Items/Flower.asset.meta
+    - Assets/Items/Red Potion.asset
+    - Assets/Items/potion.asset
+    - Assets/Items/potion.asset.meta
+    - Assets/Items/red gem.asset
+    - Assets/Items/red gem.asset.meta
+    - Assets/Scenes/Inventory testing.unity
+    - Assets/Scripts/Crafting.meta
+    - Assets/Scripts/Crafting/CraftingRecipe.cs
+    - Assets/Scripts/Crafting/CraftingRecipe.cs.meta
+    - Assets/Scripts/Inventory/Character.cs
+    - Assets/Scripts/Inventory/Character.cs.meta
+    - Assets/Scripts/Inventory/EquipmentPanel.cs
+    - Assets/Scripts/Inventory/EquipmentSlot.cs
+    - Assets/Scripts/Inventory/EquippableItem.cs
+    - Assets/Scripts/Inventory/Inventory.cs
+    - Assets/Scripts/Inventory/InventoryInput.cs
+    - Assets/Scripts/Inventory/InventoryInput.cs.meta
+    - Assets/Scripts/Inventory/ItemSlot.cs
+    - Assets/Scripts/Inventory/ItemTooltip.cs
+    - Assets/Scripts/Inventory/ItemTooltip.cs.meta
+    - Assets/Scripts/Inventory/StatDisplay.cs
+    - Assets/Scripts/Inventory/StatDisplay.cs.meta
+    - Assets/Scripts/Inventory/StatPanel.cs
+    - Assets/Scripts/Inventory/StatPanel.cs.meta
+    - Assets/Scripts/Inventory/StatTooltip.cs
+    - Assets/Scripts/Inventory/StatTooltip.cs.meta
+    - Assets/Scripts/JimmiesScripts/AlchemyTableScript.cs
+    - Assets/Scripts/JimmiesScripts/AlchemyTableScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/DayNightCycle.cs
+    - Assets/Scripts/JimmiesScripts/DayNightCycle.cs.meta
+    - Assets/Scripts/JimmiesScripts/DoorLockScript.cs
+    - Assets/Scripts/JimmiesScripts/DoorLockScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/HarvestScript.cs
+    - Assets/Scripts/JimmiesScripts/HarvestScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/IntroSceneTreeScript.cs
+    - Assets/Scripts/JimmiesScripts/IntroSceneTreeScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/MainMenuScript.cs
+    - Assets/Scripts/JimmiesScripts/MainMenuScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/MoundScripts.cs
+    - Assets/Scripts/JimmiesScripts/MoundScripts.cs.meta
+    - Assets/Scripts/JimmiesScripts/PanelScript.cs
+    - Assets/Scripts/JimmiesScripts/PanelScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/PauseMenuScript.cs
+    - Assets/Scripts/JimmiesScripts/PauseMenuScript.cs.meta
+    - Assets/Scripts/JimmiesScripts/PlayerMovement.cs
+    - Assets/Scripts/JimmiesScripts/PlayerMovement.cs.meta
+    - Assets/Scripts/JimmiesScripts/PushableObject.cs
+    - Assets/Scripts/JimmiesScripts/PushableObject.cs.meta
+    - Assets/Scripts/JimmiesScripts/SceneLoader.cs
+    - Assets/Scripts/JimmiesScripts/SceneLoader.cs.meta
+    - Assets/Scripts/JimmiesScripts/SpiritScript.cs
+    - Assets/Scripts/JimmiesScripts/SpiritScript.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

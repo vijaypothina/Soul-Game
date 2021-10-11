@@ -116,12 +116,12 @@ Material:
     - _DstBlend: 0
     - _EdgeThickness: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.394
+    - _Glossiness: 0.177
     - _GlossyReflections: 1
     - _IndirectLightIntensity: 0.1
     - _LightColorAttenuation: 0
     - _MToonVersion: 34
-    - _Metallic: 0.284
+    - _Metallic: 1
     - _Mode: 1
     - _OcclusionStrength: 1
     - _OutlineColorMode: 0
@@ -154,3 +154,4 @@ Material:
     - _RimColor: {r: 0, g: 0, b: 0, a: 1}
     - _ShadeColor: {r: 0.97, g: 0.81, b: 0.86, a: 1}
     - _ShadowColor: {r: 0.8, g: 0.8, b: 1, a: 1}
+  m_BuildTextureStacks: []
